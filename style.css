@@ -1,0 +1,46 @@
+body{
+	background-color: grey;
+}
+.aaa{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	position: relative;
+	left: 300px;
+	top: 70px;
+}
+.sss{
+	width: 250px;
+	height: 150px;
+	background-color: grey;
+	box-shadow: 1px 1px 1px 1px;
+	position: relative;
+	left: 450px;
+}
+.xxx{
+	width: 300px;
+	height: 180px;
+	background-color: blue;
+	box-shadow: 1px 1px 1px 1px;
+	position: relative;
+	left: 650px;
+	top: -250px;
+}
+.ddd{
+	width: 220px;
+	height: 120px;
+	background-color: red;
+	box-shadow: 1px 1px 1px 1px;
+	position: relative;
+	left: 470px;
+	top: -400px;
+}
+.boss{
+	width: 1300px;
+	height: 700px;
+	background-color: #98FB98;
+	display: flex;
+	display: block;
+	justify-content: center;
+	align-items: center;
+}
